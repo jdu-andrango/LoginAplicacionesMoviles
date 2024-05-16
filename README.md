@@ -1,3 +1,7 @@
+# al clonar el repo colocar el siguiente comando para poder descargar las dependecias que no se suben a git por peso
+```
+flutter pub get
+```
 # login
 
 A new Flutter project.
